@@ -33,7 +33,7 @@ button {
   margin-bottom: 4px;
   font-family: "Lucida Console", "Courier New", monospace;
   background-color: #ffffff;
-  border: 2px solid color rgb(0, 162, 255);
+  border: 2px solid color rgb(255, 77, 0);
   border-radius: 5px;
   padding-block: 2px;
   padding-inline: 5px;
@@ -42,5 +42,5 @@ button {
 
 a {
   text-decoration: none;
-  color: rgb(0, 162, 255);
+  color: rgb(255, 98, 0);
 }
