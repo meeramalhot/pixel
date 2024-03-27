@@ -5,3 +5,15 @@ h1 {
   margin-bottom: 20px;
   margin-left: 3px;
 }
+
+body {
+  margin: 20px;
+}
+
+img {
+  margin-bottom: 600px;
+}
+
+iframe {
+  float:left;
+}
