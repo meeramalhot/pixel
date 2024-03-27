@@ -1,7 +1,7 @@
 h1 {
-  color: rgb(255, 171, 217);
+  color: rgb(192, 171, 255);
   font-family: "Lucida Console", "Courier New", monospace;
-  margin-top: 20px;
+  margin-top: 10px;
   margin-bottom: 20px;
-
+  margin-left: 3px;
 }
