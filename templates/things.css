@@ -20,7 +20,7 @@ h2 {
 
 p {
   text-align: center;
-  color:rgb(185, 176, 181);
+  color:rgb(255, 142, 30);
   font-family: "Lucida Console", "Courier New", monospace;
   margin-top: 2px;
   margin-bottom: 2px;
@@ -42,5 +42,5 @@ button {
 
 a {
   text-decoration: none;
-  color: rgb(255, 98, 0);
+  color: rgb(163, 173, 187);
 }
