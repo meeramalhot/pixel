@@ -32,8 +32,8 @@ button {
   margin-top: 10px;
   margin-bottom: 4px;
   font-family: "Lucida Console", "Courier New", monospace;
-  background-color: rgb(255, 255, 254);
-  border: 2px solid color rgb(255, 30, 176);
+  background-color: #ffffff;
+  border: 2px solid rgb(255, 171, 35);
   border-radius: 5px;
   padding-block: 2px;
   padding-inline: 5px;

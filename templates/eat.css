@@ -26,21 +26,24 @@ p {
   margin-bottom: 2px;
 }
 
+
+
 button {
   margin:auto;
   display:block;
   margin-top: 10px;
   margin-bottom: 4px;
   font-family: "Lucida Console", "Courier New", monospace;
-  color:rgb(255, 255, 255);
-  border: 2px solid color rgb(255, 30, 176);
+  background-color: #ffffff;
+  border: 2px solid rgb(169, 101, 168);
   border-radius: 5px;
   padding-block: 2px;
   padding-inline: 5px;
   font-size: 10px;
 }
 
+
 a {
   text-decoration: none;
-  color:rgb(255, 103, 242);
+  color:rgb(169, 101, 168);
 }
