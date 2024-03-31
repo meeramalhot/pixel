@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  color:rgb(255, 171, 217);
+  color:rgb(0, 190, 142);
   font-family: "Lucida Console", "Courier New", monospace;
   margin-top: 130px;
 }
@@ -15,12 +15,12 @@ h1 {
 h2 {
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
-  color:rgb(255, 171, 217);
+  color:rgb(0, 190, 142);
 }
 
 p {
   text-align: center;
-  color:rgb(185, 176, 181);
+  color:rgb(65, 187, 0);
   font-family: "Lucida Console", "Courier New", monospace;
   margin-top: 2px;
   margin-bottom: 2px;
@@ -33,7 +33,7 @@ button {
   margin-bottom: 4px;
   font-family: "Lucida Console", "Courier New", monospace;
   background-color: #ffffff;
-  border: 2px solid rgb(255, 171, 217);
+  border: 2px solid rgb(255, 153, 0);
   border-radius: 5px;
   padding-block: 2px;
   padding-inline: 5px;
@@ -42,5 +42,5 @@ button {
 
 a {
   text-decoration: none;
-  color:rgb(255, 0, 140);
+  color:rgb(255, 115, 0);
 }
