@@ -1,6 +1,6 @@
 h1 {
   text-align: center;
-  color:rgb(210, 154, 255);
+  color:rgb(174, 75, 255);
   font-family: "Lucida Console", "Courier New", monospace;
   margin-top: 130px;
 }
@@ -15,7 +15,7 @@ h1 {
 h2 {
   text-align: center;
   font-family: "Lucida Console", "Courier New", monospace;
-  color:rgb(210, 154, 255);
+  color:rgb(174, 75, 255);
 }
 
 p {
