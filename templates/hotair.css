@@ -33,7 +33,7 @@ button {
   margin-bottom: 4px;
   font-family: "Lucida Console", "Courier New", monospace;
   background-color: #ffffff;
-  border: 2px solid #ff00a2;
+  border: 2px solid #00ff8c;
 
   border-radius: 5px;
   padding-block: 2px;
@@ -43,6 +43,6 @@ button {
 
 a {
   text-decoration: none;
-  color:#df60ff;
+  color:#ff60ea;
 
 }
