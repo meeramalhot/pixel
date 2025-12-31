@@ -1,0 +1,67 @@
+* p{
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: rgb(0, 0, 0);
+}
+
+h1 {
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin-top: 5vh;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+
+.center-links {
+  display: flex;
+  justify-content: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+
+}
+
+.center-links ul {
+  list-style: none;
+  padding: 0;
+  text-align: center;
+  color: rgb(0, 0, 0);
+
+}
+
+.center-links li {
+  margin: 0.5rem 0;
+  color: rgb(0, 0, 0);
+
+}
+
+
+p {
+  text-align: center;
+  font-family: "Lucida Console", "Courier New", monospace;
+  margin-top: 2px;
+  margin-bottom: 2px;
+  color: rgb(0, 0, 0);
+
+}
+
+button {
+  margin:auto;
+  display:block;
+  margin-top: 10px;
+  margin-bottom: 4px;
+  font-family: "Lucida Console", "Courier New", monospace;
+  background-color:rgb(255, 255, 255);
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 5px;
+  padding-block: 2px;
+  padding-inline: 5px;
+  font-size: 10px;
+}
+
+a {
+  text-decoration: none;
+  color:rgb(0, 0, 0);
+}
